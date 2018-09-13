@@ -1,1 +1,1 @@
-# toronto_clustering
+An ipynb I created for the final project of the IBM Cousera Data Science Specialization. It is for those who like exploratory data analysis, want to learn about the Foursquare API, want to see what the city of Toronto has to offer in terms of night life, or just want to give me feedback on how to become a better data scientist. Enjoy!  
