@@ -3,8 +3,8 @@ The ipython notebook is an attempt to segment the different neighborhoods in Tor
 
 # Requirements/Dependencies
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for web scraping
-- [requests](http://docs.python-requests.org/en/master/user/install/#install)
-- [geopy](https://pypi.org/project/geopy/)
-- [tqdm](https://pypi.org/project/tqdm/)
-- [folium](https://github.com/python-visualization/folium)
-- [sklearn](https://scikit-learn.org/stable/install.html)
+- [requests](http://docs.python-requests.org/en/master/user/install/#install) for web scraping
+- [geopy](https://pypi.org/project/geopy/) for accessing location data
+- [tqdm](https://pypi.org/project/tqdm/) for displaying progress bars
+- [folium](https://github.com/python-visualization/folium) for mapping data
+- [sklearn](https://scikit-learn.org/stable/install.html) for running the kmeans algorithm
